@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Click Behavior</string>
+    <string name="lemon">Limón</string>
+    <string name="lemon_tree">Limonero</string>
+    <string name="lemon_squeeze">Dale toques al limón hasta que lo exprimas</string>
+    <string name="lemon_select">Toca el limonero para seleccionar un limón</string>
+    <string name="lemon_empty_glass">Toca el vaso para volver a empezar</string>
+    <string name="glass_of_lemonade">Vaso de limonada</string>
+    <string name="empty_glass">Vaso vacío</string>
+    <string name="lemon_drink">Toca la limonada para tomarla</string>
+</resources>
