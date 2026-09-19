@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="art1_description">Pintura los guandos de Eduardo Kingman, muestra el duro trabajo, el dolor y el sacrificio de los indígenas andinos</string>
+    <string name="art2_description">Adan acaba de ser creado y conoce a su creador pero se niega a alcanzarlo</string>
+    <string name="art3_description">Pintura de arte abstracto "El Guernica" de Pablo Picasso</string>
+    <string name="art4_description">Retrato de la familia del rey Felipe IV</string>
+    <string name="art5_description">Pintura de relojes derretidos</string>
+    <string name="art1_author">Eduardo Kingman</string>
+    <string name="art2_author">Miguel Ángel</string>
+    <string name="art3_author">Pablo Picasso</string>
+    <string name="art4_author">Diego Velásquez</string>
+    <string name="art5_author">Salvador Dalí</string>
+    <string name="art1_year">1939</string>
+    <string name="art2_year">1511</string>
+    <string name="art3_year">1937</string>
+    <string name="art4_year">1656</string>
+    <string name="art5_year">1931</string>
+    <string name="art1_name">Los Guandos</string>
+    <string name="art2_name">La creación de Adán</string>
+    <string name="art3_name">El Guernica</string>
+    <string name="art4_name">Las Meninas</string>
+    <string name="art5_name">La persistencia de la memoria</string>
+    <string name="next">Next</string>
+    <string name="Previous">Previous</string>
+</resources>
